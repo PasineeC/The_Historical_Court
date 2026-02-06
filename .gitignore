@@ -1,0 +1,9 @@
+.cache/
+.config/
+.local/
+.cache/
+.config/
+.local/
+__pycache__/
+*.pyc
+.env
